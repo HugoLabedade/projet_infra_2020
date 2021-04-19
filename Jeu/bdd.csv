@@ -1,0 +1,80 @@
+id,nom,sprite,sprite_dos,type1,type2,pv,stat_att,stat_attspe,stat_def,stat_defspe,vitesse,att1,att2,att3,att4
+1,Initialisation,...,...,None,None,1,1,1,1,1,1,Synthèse,Synthèse,Synthèse,Synthèse
+2,Dracaufeu,...,...,Feu,Vol,234,84,109,78,85,100,Lance-Flammes,Draco-Choc,Lame-d'Air,Lance-Soleil
+3,Tortank,...,...,Eau,None,237,83,85,100,105,78,Hydrocanon,Blizzard,Coud'Krane,Surf
+4,Florizarre,...,...,Plante,Poison,240,82,100,83,100,80,Lance-Soleil,Bomb-Beurk,Damoclès,Morsure
+5,Papilusion,...,...,Insect,Vol,180,45,90,50,80,70,Bourdon,Lame-d'Air,"Rafale Psy","Giga Impact"
+6,Dardargnan,...,...,Insect,Poison,195,90,45,40,80,75,Lance-Soleil,Casse-Brique,Giga-Impact,"Direct Toxik"
+7,Roucarnage,...,...,Vol,Normal,249,80,70,75,70,101,Lame-d'Air,Coupe-Vent,"Aile d'Acier",Aéropique
+8,Rattatac,...,...,Normal,None,165,81,50,60,70,97,Damoclès,Vive-Attaque,Morsure,Ultralaser
+9,Rapasdepic,...,...,Normal,Vol,195,90,61,65,61,100,Piqué,Aéropique,Vive-Attaque,Lame-d'Air
+10,Arbok,...,...,Poison,None,180,95,65,69,79,80,Éructation,"Crocs Éclair",Mâchouille,Boue-Bombe
+11,Raichu,...,...,Electr,None,180,90,90,55,80,110,Tonnerre,Fatal-Foudre,Vive-Attaque,"Giga Impact"
+12,Sablaireau,...,...,Sol,None,225,100,45,110,55,65,Séisme,Tranche,Gyroballe,Casse-Brique
+13,Nidoqueen,...,...,Poison,Sol,270,82,75,87,85,76,Telluriforce,Plaquage,"Laser Glace",Lance-Flammes
+14,Nidoking,...,...,Poison,Sol,243,102,85,77,75,85,Mégacorne,Mania,Telluriforce,Tonnerre
+15,Mélodelfe,...,...,Fee,None,285,70,85,73,90,60,"Laser Glace",Tonnerre,Lance-Flammes,Exploforce
+16,Feunard,...,...,Feu,None,219,76,81,75,100,100,Déflagration,Extrasenseur,Lance-Flammes,Vive-Attaque
+17,Grodoudou,...,...,Fee,Normal,420,70,85,45,50,45,Psyko,Ball'Ombre,Exploforce,"Giga Impact"
+18,Nosferalto,...,...,Poison,Vol,225,80,65,70,75,90,Lame-d'Air,Mâchouille,Vive-Attaque,Aéropique
+19,Rafflesia,...,...,Plante,Poison,225,80,110,85,90,50,Danse-Fleur,"Pouvoir Lunaire",Bomb-Beurk,"Giga Impact"
+20,Parasect,...,...,Insect,Plante,180,95,60,80,80,30,Aéropique,Lance-Soleil,Bomb-Beurk,Plaie-Croix
+21,Triopikeur,...,...,Sol,None,160,100,50,50,70,120,Séisme,Tranche-Nuit,Triplattaque,Abîme
+22,Persian,...,...,Normal,None,195,70,65,60,65,115,Tranche,Câlinerie,Morsure,"Rayon Gemme"
+23,Akwakwak,...,...,Eau,None,240,82,95,78,80,85,Psyko,Surf,"Laser Glace","Griffe Ombre"
+24,Colossinge,...,...,Eau,None,195,105,60,60,70,95,Casse-Brique,Colère,Tonnerre,"Lame de Roc"
+25,Arcanin,...,...,Feu,None,270,110,100,80,80,95,Lance-Flammes,"Crocs Éclair",Damoclès,Morsure
+26,Tartard,...,...,Eau,Combat,270,95,70,95,90,70,Surf,"Laser Glace",Casse-Brique,"Direct Toxik"
+27,Alakazam,...,...,Psy,None,165,50,135,45,95,120,Psyko,Ball'Ombre,Exploforce,Façade
+28,Mackogneur,...,...,Combat,None,270,130,65,80,85,55,Casse-Brique,"Coup Croix",Damoclès,Éboulement
+29,Empiflor,...,...,Plante,Poison,240,105,100,65,70,70,Lame-Feuille,Bomb-Beurk,Façade,"Tempête Verte"
+30,Tentacruel,...,...,Eau,Poison,240,70,80,65,120,100,Surf,Bomb-Beurk,"Éclat Magique","Laser Glace"
+31,Aéromite,...,...,Insect,Poison,210,65,60,90,75,90,Psyko,Bomb-Beurk,Aéropique,Psykoud'Boul
+32,Grolem,...,...,Roche,Sol,240,120,55,130,65,45,Séisme,Explosion,"Lame de Roc",Damoclès
+33,Galopa,...,...,Feu,None,195,100,80,70,80,105,Déflagration,Mégacorne,Lance-Flammes,Vive-Attaque
+34,Flagadoss,...,...,Eau,Psy,285,75,110,100,80,30,Surf,Psyko,"Laser Glace",Ultralaser
+35,Magnéton,...,...,Electr,Acier,165,60,95,120,70,70,Tonnerre,Triplattaque,Explosion,Luminocanon
+36,Canarticho,...,...,Normal,Vol,156,90,58,55,62,60,Rapace,"Direct Toxik",Tranch'Herbe,Lame-Feuille
+37,Dodrio,...,...,Normal,Vol,180,110,60,70,60,110,Vol,Triplattaque,"Giga Impact",Mania
+38,Lamantine,...,...,Eau,Glace,270,70,70,80,95,70,"Laser Glace",Damoclès,Hydroqueue,Glaciation
+39,Grotadmorv,...,...,Poison,None,315,105,65,75,100,50,Éructation,"Pouvoir Lunaire",Bomb-Beurk,Tonnerre
+40,Crustabri,...,...,Eau,Glace,160,95,85,180,45,45,"Laser Glace","Giga Impact",Surf,"Direct Toxik"
+41,Ectoplasma,...,...,Spectr,Poison,180,65,130,60,75,110,Ball'Ombre,"Coup Bas",Casse-Brique,Psyko
+42,Onix,...,...,Roche,Sol,115,45,30,160,45,70,Séisme,"Lame de Roc",Damoclès,Dracosouffle
+43,Hypnomade,...,...,Psy,None,180,73,73,70,115,110,Psyko,Ball'Ombre,Casse-Brique,"Éclat Magique"
+44,Krabboss,...,...,Eau,None,165,130,50,115,50,75,Surf,"Griffe Acier","Giga Impact","Laser Glace"
+45,Électrode,...,...,Electr,None,180,50,80,70,80,150,Tonnerre,Fatal-Foudre,Ultralaser,Explosion
+46,Noadkoko,...,...,Plante,Psy,285,95,125,85,75,55,Psyko,Lance-Soleil,Bomb-Beurk,Mania
+47,Ossatueur,...,...,Sol,None,180,80,50,111,80,45,Séisme,Damoclès,Lance-Flammes,Aéropique
+48,Kicklee,...,...,Combat,None,160,120,35,53,110,87,"Pied Sauté",Ultimawashi,"Pied Brûleur","Lame de Roc"
+49,Tygnon,...,...,Combat,None,160,105,35,79,110,76,Poing-Éclair,Poing-Glace,Stratopercut,Exploforce
+50,Excelangue,...,...,Normal,None,270,55,60,75,75,35,Souplesse,Casse-Brique,Tomberoche,"Giga Impact"
+51,Smogogo,...,...,Poison,None,195,90,65,85,120,70,Bomb-Beurk,Lance-Flammes,Gyroballe,Ultralaser
+52,Rhinoféros,...,...,Sol,Roche,315,130,45,120,45,40,Séisme,"Lame de Roc",Marto-Poing,"Direct Toxik"
+53,Leveinard,...,...,Normal,None,750,5,35,5,105,50,"Laser Glace",Tonnerre,"Éclat Magique","Giga Impact"
+54,Kangourex,...,...,Normal,None,315,95,40,80,80,90,"Laser Glace",Casse-Brique,"Coup Bas",Ultimapoing
+55,Hypocéan,...,...,Eau,None,165,65,95,95,45,85,Surf,Dracochoc,"Laser Glace",Luminocanon
+56,Poissoroy,...,...,Eau,None,240,92,65,65,80,68,"Laser Glace",Surf,"Direct Toxik",Blizzard
+57,Staross,...,...,Eau,Psy,180,75,100,80,80,115,"Laser Glace",Surf,"Éclat Magique",Hydrocanon
+58,Insécateur,...,...,Insect,Vol,210,110,55,80,80,105,Plaie-Croix,Lame-d'Air,Casse-Brique,Tranche-Nuit
+59,Lippoutou,...,...,Psy,Glace,195,35,115,95,50,95,"Laser Glace",Psyko,Ball'Ombre,Casse-Brique
+60,Élektek,...,...,Electr,None,195,83,95,57,85,105,Tonnerre,Psyko,Exploforce,Fatal-Foudre
+61,Magmar,...,...,Feu,None,195,95,100,57,85,93,Lance-Flammes,Casse-Brique,"Poing Éclair",Déflagration
+62,Scarabrute,...,...,Insect,None,195,125,55,100,70,85,Plaie-Croix,Casse-Brique,Séisme,"Lame de Roc"
+63,Tauros,...,...,Normal,None,225,100,40,95,70,110,"Puissance Cachée",Psykoud'Boul,Représailles,"Giga Impact"
+64,Léviator,...,...,Eau,Vol,285,125,60,79,100,81,Surf,"Crocs Givre",Colère,Hydrocanon
+65,Lokhlass,...,...,Eau,Glace,390,85,85,80,95,60,"Laser Glace",Surf,Dracochoc,Tonnerre
+66,Aquali,...,...,Eau,None,390,65,110,60,95,65,Surf,"Laser Glace",Ball'Ombre,Hydrocanon
+67,Voltali,...,...,Electr,None,195,65,110,60,95,130,Tonnerre,"Puissance Cachée",Morsure,Fatal-Foudre
+68,Pyroli,...,...,Feu,None,195,130,95,60,110,115,Lance-Flammes,Ball'Ombre,Morsure,Déflagration
+69,Porygon,...,...,Normal,None,195,60,85,70,75,40,Triplattaque,"Laser Glace",Psyko,Aéropique
+70,Amonistar,...,...,Eau,Roche,210,60,115,125,70,55,Surf,"Lame de Roc","Laser Glace",Blizzard
+71,Kabutops,...,...,Eau,Roche,180,115,65,105,70,80,Surf,Éboulement,Casse-Brique,Aéropique
+72,Ptéra,...,...,Roche,Vol,240,105,60,65,75,130,Séisme,"Lame de Roc",Dracochoc,"Giga Impact"
+73,Ronflex,...,...,Normal,None,480,110,65,65,110,30,Plaquage,Surpuissance,Mâchouille,"Giga Impact"
+74,Artikodin,...,...,Glace,Vol,270,85,95,100,125,85,"Laser Glace",Piqué,"Rayon Signal",Aéropique
+75,Électhor,...,...,Electr,Vol,270,90,125,85,90,100,Tonnerre,Piqué,"Aile d'Acier",Canicule
+76,Sulfura,...,...,Feu,Vol,270,100,125,90,85,90,Lance-Flammes,"Vent Violent","Giga Impact","Flamme Ultime"
+77,Dracolosse,...,...,Dragon,Vol,273,134,100,95,100,80,Lance-Flammes,Colère,Blizzard,Fatal-Foudre
+78,Mewtwo,...,...,Psy,None,318,110,154,90,90,130,"Frappe Psy","Laser Glace",Éco-Sphère,Poing-Éclair
+79,Mew,...,...,Psy,None,300,100,100,100,100,100,Psyko,Piqué,Colère,Tricherie

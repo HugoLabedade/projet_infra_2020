@@ -1,0 +1,2291 @@
+{
+
+    "Initialisation":{
+        "name":"Initialisation",
+        "sprite": "./sprite/Dracaufeu.gif",
+        "sprite_dos": "./sprite_dos/Rattatac.png",
+        "type1": "None",
+        "type2": "None",
+        "PV": 1,
+        "Statatt": 1,
+        "Statattspe": 1,
+        "Statdef" : 1,
+        "Statdefspe": 1,
+        "Speed": 1,
+        "Att1": "Synthèse",
+        "Att2": "Synthèse",
+        "Att3": "Synthèse",
+        "Att4": "Synthèse"
+    },
+
+
+    "Dracaufeu": {
+        "name": "Dracaufeu",
+        "sprite": "./sprite/Dracaufeu.gif",
+        "sprite_dos": "./sprite_dos/Dracaufeu.png",
+        "type1": "Feu",
+        "type2": "Vol",
+        "PV": 234,
+        "Statatt": 84,
+        "Statattspe": 109,
+        "Statdef" : 78,
+        "Statdefspe": 85,
+        "Speed": 100,
+        "Att1": "Lance-Flammes",
+        "Att2": "Draco-Choc",
+        "Att3": "Lame-d'Air",
+        "Att4": "Lance-Soleil"
+    },
+
+    "Tortank": {
+        "name": "Tortank",
+        "sprite": "./sprite/Tortank.gif",
+        "sprite_dos": "./sprite_dos/Tortank.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 237,
+        "Statatt": 83,
+        "Statattspe": 85,
+        "Statdef" : 100,
+        "Statdefspe": 105,
+        "Speed": 78,
+        "Att1": "Hydrocanon",
+        "Att2": "Blizzard",
+        "Att3": "Coud'Krane",
+        "Att4": "Surf"
+    },
+
+    "Florizarre": {
+        "name": "Florizarre",
+        "sprite": "./sprite/Florizarre.gif",
+        "sprite_dos": "./sprite_dos/Florizarre.png",
+        "type1": "Plante",
+        "type2": "Poison",
+        "PV": 240,
+        "Statatt": 82,
+        "Statattspe": 100,
+        "Statdef" : 83,
+        "Statdefspe": 100,
+        "Speed": 80,
+        "Att1": "Lance-Soleil",
+        "Att2": "Bomb-Beurk",
+        "Att3": "Damoclès",
+        "Att4": "Morsure"
+    },
+
+    "Papilusion": {
+        "name": "Papilusion",
+        "sprite": "./sprite/Papilusion.gif",
+        "sprite_dos": "./sprite_dos/Papilusion.png",
+        "type1": "Insect",
+        "type2": "Vol",
+        "PV": 180,
+        "Statatt": 45,
+        "Statattspe": 90,
+        "Statdef" : 50,
+        "Statdefspe": 80,
+        "Speed": 70,
+        "Att1": "Bourdon",
+        "Att2": "Lame-d'Air",
+        "Att3": "Rafale Psy",
+        "Att4": "Giga Impact"
+    },
+
+    "Dardargnan": {
+        "name": "Dardargnan",
+        "sprite": "./sprite/Dardargnan.gif",
+        "sprite_dos": "./sprite_dos/Dardargnan.png",
+        "type1": "Insect",
+        "type2": "Poison",
+        "PV": 195,
+        "Statatt": 90,
+        "Statattspe": 45,
+        "Statdef" : 40,
+        "Statdefspe": 80,
+        "Speed": 75,
+        "Att1": "Lance-Soleil",
+        "Att2": "Casse-Brique",
+        "Att3": "Giga Impact",
+        "Att4": "Direct Toxik"
+    },
+
+    "Roucarnage": {
+        "name": "Roucarnage",
+        "sprite": "./sprite/Roucarnage.gif",
+        "sprite_dos": "./sprite_dos/Roucarnage.png",
+        "type1": "Vol",
+        "type2": "Normal",
+        "PV": 249,
+        "Statatt": 80,
+        "Statattspe": 70,
+        "Statdef" : 75,
+        "Statdefspe": 70,
+        "Speed": 101,
+        "Att1": "Lame-d'Air",
+        "Att2": "Coupe-Vent",
+        "Att3": "Aile d'Acier",
+        "Att4": "Aéropique"
+        
+    },
+
+    "Rattatac": {
+        "name": "Rattatac",
+        "sprite": "./sprite/Rattatac.gif",
+        "sprite_dos": "./sprite_dos/Rattatac.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 165,
+        "Statatt": 81,
+        "Statattspe": 50,
+        "Statdef" : 60,
+        "Statdefspe": 70,
+        "Speed": 97,
+        "Att1": "Damoclès",
+        "Att2": "Vive-Attaque",
+        "Att3": "Morsure",
+        "Att4": "Ultralaser"
+        
+    },
+
+    "Rapasdepic": {
+        "name": "Rapasdepic",
+        "sprite": "./sprite/Rapasdepic.gif",
+        "sprite_dos": "./sprite_dos/Rapasdepic.png",
+        "type1": "Normal",
+        "type2": "Vol",
+        "PV": 195,
+        "Statatt": 90,
+        "Statattspe": 61,
+        "Statdef" : 65,
+        "Statdefspe": 61,
+        "Speed": 100,
+        "Att1": "Piqué",
+        "Att2": "Aéropique",
+        "Att3": "Vive-Attaque",
+        "Att4": "Lame-d'Air"
+        
+    },
+
+    "Arbok": {
+        "name": "Arbok",
+        "sprite": "./sprite/Arbok.gif",
+        "sprite_dos": "./sprite_dos/Arbok.png",
+        "type1": "Poison",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 95,
+        "Statattspe": 65,
+        "Statdef" : 69,
+        "Statdefspe": 79,
+        "Speed": 80,
+        "Att1": "Éructation",
+        "Att2": "Crocs Éclair",
+        "Att3": "Mâchouille",
+        "Att4": "Boue-Bombe"
+    },
+
+    "Raichu": {
+        "name": "Raichu",
+        "sprite": "./sprite/Raichu.gif",
+        "sprite_dos": "./sprite_dos/Raichu.png",
+        "type1": "Electr",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 90,
+        "Statattspe": 90,
+        "Statdef" : 55,
+        "Statdefspe": 80,
+        "Speed": 110,
+        "Att1": "Tonnerre",
+        "Att2": "Fatal-Foudre",
+        "Att3": "Vive-Attaque",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Sablaireau": {
+        "name": "Sablaireau",
+        "sprite": "./sprite/Sablaireau.gif",
+        "sprite_dos": "./sprite_dos/Sablaireau.png",
+        "type1": "Sol",
+        "type2": "None",
+        "PV": 225,
+        "Statatt": 100,
+        "Statattspe": 45,
+        "Statdef" : 110,
+        "Statdefspe": 55,
+        "Speed": 65,
+        "Att1": "Séisme",
+        "Att2": "Tranche",
+        "Att3": "Gyroballe",
+        "Att4": "Casse-Brique"
+        
+    },
+
+    "Nidoqueen": {
+        "name": "Nidoqueen",
+        "sprite": "./sprite/Nidoqueen.gif",
+        "sprite_dos": "./sprite_dos/Nidoqueen.png",
+        "type1": "Poison",
+        "type2": "Sol",
+        "PV": 270,
+        "Statatt": 82,
+        "Statattspe": 75,
+        "Statdef" : 87,
+        "Statdefspe": 85,
+        "Speed": 76,
+        "Att1": "Telluriforce",
+        "Att2": "Plaquage",
+        "Att3": "Laser Glace",
+        "Att4": "Lance-Flammes"
+        
+    },
+
+    "Nidoking": {
+        "name": "Nidoking",
+        "sprite": "./sprite/Nidoking.gif",
+        "sprite_dos": "./sprite_dos/Nidoking.png",
+        "type1": "Poison",
+        "type2": "Sol",
+        "PV": 243,
+        "Statatt": 102,
+        "Statattspe": 85,
+        "Statdef" : 77,
+        "Statdefspe": 75,
+        "Speed": 85,
+        "Att1": "Mégacorne",
+        "Att2": "Mania",
+        "Att3": "Telluriforce",
+        "Att4": "Tonnerre"
+        
+    },
+
+    "Melodelfe": {
+        "name": "Mélodelfe",
+        "sprite": "./sprite/Melodelfe.gif",
+        "sprite_dos": "./sprite_dos/Melodelfe.png",
+        "type1": "Fee",
+        "type2": "None",
+        "PV": 285,
+        "Statatt": 70,
+        "Statattspe": 85,
+        "Statdef" : 73,
+        "Statdefspe": 90,
+        "Speed": 60,
+        "Att1": "Laser Glace",
+        "Att2": "Tonnerre",
+        "Att3": "Lance-Flammes",
+        "Att4": "Exploforce"
+        
+    },
+
+    "Feunard": {
+        "name": "Feunard",
+        "sprite": "./sprite/Feunard.gif",
+        "sprite_dos": "./sprite_dos/Feunard.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 219,
+        "Statatt": 76,
+        "Statattspe": 81,
+        "Statdef" : 75,
+        "Statdefspe": 100,
+        "Speed": 100,
+        "Att1": "Déflagration",
+        "Att2": "Extrasenseur",
+        "Att3": "Lance-Flammes",
+        "Att4": "Vive-Attaque"
+        
+    },
+
+    "Grodoudou": {
+        "name": "Grodoudou",
+        "sprite": "./sprite/Grodoudou.gif",
+        "sprite_dos": "./sprite_dos/Grodoudou.png",
+        "type1": "Fee",
+        "type2": "Normal",
+        "PV": 420,
+        "Statatt": 70,
+        "Statattspe": 85,
+        "Statdef" : 45,
+        "Statdefspe": 50,
+        "Speed": 45,
+        "Att1": "Psyko",
+        "Att2": "Ball'Ombre",
+        "Att3": "Exploforce",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Nosferalto": {
+        "name": "Nosferalto",
+        "sprite": "./sprite/Nosferalto.gif",
+        "sprite_dos": "./sprite_dos/Nosferalto.png",
+        "type1": "Poison",
+        "type2": "Vol",
+        "PV": 225,
+        "Statatt": 80,
+        "Statattspe": 65,
+        "Statdef" : 70,
+        "Statdefspe": 75,
+        "Speed": 90,
+        "Att1": "Lame-d'Air",
+        "Att2": "Mâchouille",
+        "Att3": "Vive-Attaque",
+        "Att4": "Aéropique"
+        
+    },
+
+    "Rafflesia": {
+        "name": "Rafflesia",
+        "sprite": "./sprite/Rafflesia.gif",
+        "sprite_dos": "./sprite_dos/Rafflesia.png",
+        "type1": "Plante",
+        "type2": "Poison",
+        "PV": 225,
+        "Statatt": 80,
+        "Statattspe": 110,
+        "Statdef" : 85,
+        "Statdefspe": 90,
+        "Speed": 50,
+        "Att1": "Danse-Fleur",
+        "Att2": "Pouvoir Lunaire",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Parasect": {
+        "name": "Parasect",
+        "sprite": "./sprite/Parasect.gif",
+        "sprite_dos": "./sprite_dos/Parasect.png",
+        "type1": "Insect",
+        "type2": "Plante",
+        "PV": 180,
+        "Statatt": 95,
+        "Statattspe": 60,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 30,
+        "Att1": "Aéropique",
+        "Att2": "Lance-Soleil",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Plaie-Croix"
+        
+    },
+
+    "Triopikeur": {
+        "name": "Triopikeur",
+        "sprite": "./sprite/Triopikeur.gif",
+        "sprite_dos": "./sprite_dos/Triopikeur.png",
+        "type1": "Sol",
+        "type2": "None",
+        "PV": 160,
+        "Statatt": 100,
+        "Statattspe": 50,
+        "Statdef" : 50,
+        "Statdefspe": 70,
+        "Speed": 120,
+        "Att1": "Séisme",
+        "Att2": "Tranche-Nuit",
+        "Att3": "Triplattaque",
+        "Att4": "Abîme"
+        
+    },
+
+    "Persian": {
+        "name": "Persian",
+        "sprite": "./sprite/Persian.gif",
+        "sprite_dos": "./sprite_dos/Persian.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 70,
+        "Statattspe": 65,
+        "Statdef" : 60,
+        "Statdefspe": 65,
+        "Speed": 115,
+        "Att1": "Tranche",
+        "Att2": "Câlinerie",
+        "Att3": "Morsure",
+        "Att4": "Rayon Gemme"
+        
+    },
+
+    "Akwakwak": {
+        "name": "Akwakwak",
+        "sprite": "./sprite/Akwakwak.gif",
+        "sprite_dos": "./sprite_dos/Akwakwak.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 240,
+        "Statatt": 82,
+        "Statattspe": 95,
+        "Statdef" : 78,
+        "Statdefspe": 80,
+        "Speed": 85,
+        "Att1": "Psyko",
+        "Att2": "Surf",
+        "Att3": "Laser Glace",
+        "Att4": "Griffe Ombre"
+        
+    },
+
+    "Colossinge": {
+        "name": "Colossinge",
+        "sprite": "./sprite/Colossinge.gif",
+        "sprite_dos": "./sprite_dos/Colossinge.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 105,
+        "Statattspe": 60,
+        "Statdef" : 60,
+        "Statdefspe": 70,
+        "Speed": 95,
+        "Att1": "Casse-Brique",
+        "Att2": "Colère",
+        "Att3": "Tonnerre",
+        "Att4": "Lame de Roc"
+        
+    },
+
+    "Arcanin": {
+        "name": "Arcanin",
+        "sprite": "./sprite/Arcanin.gif",
+        "sprite_dos": "./sprite_dos/Arcanin.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 270,
+        "Statatt": 110,
+        "Statattspe": 100,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 95,
+        "Att1": "Lance-Flammes",
+        "Att2": "Crocs Éclair",
+        "Att3": "Damoclès",
+        "Att4": "Morsure"
+        
+    },
+
+    "Tartard": {
+        "name": "Tartard",
+        "sprite": "./sprite/Tartard.gif",
+        "sprite_dos": "./sprite_dos/Tartard.png",
+        "type1": "Eau",
+        "type2": "Combat",
+        "PV": 270,
+        "Statatt": 95,
+        "Statattspe": 70,
+        "Statdef" : 95,
+        "Statdefspe": 90,
+        "Speed": 70,
+        "Att1": "Surf",
+        "Att2": "Laser Glace",
+        "Att3": "Casse-Brique",
+        "Att4": "Direct Toxik"
+        
+    },
+
+    "Alakazam": {
+        "name": "Alakazam",
+        "sprite": "./sprite/Alakazam.gif",
+        "sprite_dos": "./sprite_dos/Alakazam.png",
+        "type1": "Psy",
+        "type2": "None",
+        "PV": 165,
+        "Statatt": 50,
+        "Statattspe": 135,
+        "Statdef" : 45,
+        "Statdefspe": 95,
+        "Speed": 120,
+        "Att1": "Psyko",
+        "Att2": "Ball'Ombre",
+        "Att3": "Exploforce",
+        "Att4": "Façade"
+        
+    },
+
+    "Mackogneur": {
+        "name": "Mackogneur",
+        "sprite": "./sprite/Mackogneur.gif",
+        "sprite_dos": "./sprite_dos/Mackogneur.png",
+        "type1": "Combat",
+        "type2": "None",
+        "PV": 270,
+        "Statatt": 130,
+        "Statattspe": 65,
+        "Statdef" : 80,
+        "Statdefspe": 85,
+        "Speed": 55,
+        "Att1": "Casse-Brique",
+        "Att2": "Coup Croix",
+        "Att3": "Damoclès",
+        "Att4": "Éboulement"
+        
+    },
+
+    "Empiflor": {
+        "name": "Empiflor",
+        "sprite": "./sprite/Empiflor.gif",
+        "sprite_dos": "./sprite_dos/Empiflor.png",
+        "type1": "Plante",
+        "type2": "Poison",
+        "PV": 240,
+        "Statatt": 105,
+        "Statattspe": 100,
+        "Statdef" : 65,
+        "Statdefspe": 70,
+        "Speed": 70,
+        "Att1": "Lame-Feuille",
+        "Att2": "Bomb-Beurk",
+        "Att3": "Façade",
+        "Att4": "Tempête Verte"
+        
+    },
+
+    "Tentacruel": {
+        "name": "Tentacruel",
+        "sprite": "./sprite/Tentacruel.gif",
+        "sprite_dos": "./sprite_dos/Tentacruel.png",
+        "type1": "Eau",
+        "type2": "Poison",
+        "PV": 240,
+        "Statatt": 70,
+        "Statattspe": 80,
+        "Statdef" : 65,
+        "Statdefspe": 120,
+        "Speed": 100,
+        "Att1": "Surf",
+        "Att2": "Bomb-Beurk",
+        "Att3": "Éclat Magique",
+        "Att4": "Laser Glace"
+        
+    },
+
+    "Aeromite": {
+        "name": "Aéromite",
+        "sprite": "./sprite/Aeromite.gif",
+        "sprite_dos": "./sprite_dos/Aeromite.png",
+        "type1": "Insect",
+        "type2": "Poison",
+        "PV": 210,
+        "Statatt": 65,
+        "Statattspe": 60,
+        "Statdef" : 90,
+        "Statdefspe": 75,
+        "Speed": 90,
+        "Att1": "Psyko",
+        "Att2": "Bomb-Beurk",
+        "Att3": "Aéropique",
+        "Att4": "Psykoud'Boul"
+        
+    },
+
+    "Grolem": {
+        "name": "Grolem",
+        "sprite": "./sprite/Grolem.gif",
+        "sprite_dos": "./sprite_dos/Grolem.png",
+        "type1": "Roche",
+        "type2": "Sol",
+        "PV": 240,
+        "Statatt": 120,
+        "Statattspe": 55,
+        "Statdef" : 130,
+        "Statdefspe": 65,
+        "Speed": 45,
+        "Att1": "Séisme",
+        "Att2": "Explosion",
+        "Att3": "Lame de Roc",
+        "Att4": "Damoclès"
+        
+    },
+    
+    "Galopa": {
+        "name": "Galopa",
+        "sprite": "./sprite/Galopa.gif",
+        "sprite_dos": "./sprite_dos/Galopa.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 100,
+        "Statattspe": 80,
+        "Statdef" : 70,
+        "Statdefspe": 80,
+        "Speed": 105,
+        "Att1": "Déflagration",
+        "Att2": "Mégacorne",
+        "Att3": "Lance-Flammes",
+        "Att4": "Vive-Attaque"
+        
+    },
+
+    "Flagadoss": {
+        "name": "Flagadoss",
+        "sprite": "./sprite/Flagadoss.gif",
+        "sprite_dos": "./sprite_dos/Flagadoss.png",
+        "type1": "Eau",
+        "type2": "Psy",
+        "PV": 285,
+        "Statatt": 75,
+        "Statattspe": 110,
+        "Statdef" : 100,
+        "Statdefspe": 80,
+        "Speed": 30,
+        "Att1": "Surf",
+        "Att2": "Psyko",
+        "Att3": "Laser Glace",
+        "Att4": "Ultralaser"
+        
+    },
+
+    "Magneton": {
+        "name": "Magnéton",
+        "sprite": "./sprite/Magneton.gif",
+        "sprite_dos": "./sprite_dos/Magneton.png",
+        "type1": "Electr",
+        "type2": "Acier",
+        "PV": 165,
+        "Statatt": 60,
+        "Statattspe": 95,
+        "Statdef" : 120,
+        "Statdefspe": 70,
+        "Speed": 70,
+        "Att1": "Tonnerre",
+        "Att2": "Triplattaque",
+        "Att3": "Explosion",
+        "Att4": "Luminocanon"
+        
+    },
+
+    "Canarticho": {
+        "name": "Canarticho",
+        "sprite": "./sprite/Canarticho.gif",
+        "sprite_dos": "./sprite_dos/Canarticho.png",
+        "type1": "Normal",
+        "type2": "Vol",
+        "PV": 156,
+        "Statatt": 90,
+        "Statattspe": 58,
+        "Statdef" : 55,
+        "Statdefspe": 62,
+        "Speed": 60,
+        "Att1": "Rapace",
+        "Att2": "Direct Toxik",
+        "Att3": "Tranch'Herbe",
+        "Att4": "Lame-Feuille"
+        
+    },
+
+    "Dodrio": {
+        "name": "Dodrio",
+        "sprite": "./sprite/Dodrio.gif",
+        "sprite_dos": "./sprite_dos/Dodrio.png",
+        "type1": "Normal",
+        "type2": "Vol",
+        "PV": 180,
+        "Statatt": 110,
+        "Statattspe": 60,
+        "Statdef" : 70,
+        "Statdefspe": 60,
+        "Speed": 110,
+        "Att1": "Vol",
+        "Att2": "Triplattaque",
+        "Att3": "Giga Impact",
+        "Att4": "Mania"
+        
+    },
+
+    "Lamantine": {
+        "name": "Lamantine",
+        "sprite": "./sprite/Lamantine.gif",
+        "sprite_dos": "./sprite_dos/Lamantine.png",
+        "type1": "Eau",
+        "type2": "Glace",
+        "PV": 270,
+        "Statatt": 70,
+        "Statattspe": 70,
+        "Statdef" : 80,
+        "Statdefspe": 95,
+        "Speed": 70,
+        "Att1": "Laser Glace",
+        "Att2": "Damoclès",
+        "Att3": "Hydroqueue",
+        "Att4": "Glaciation"
+        
+    },
+
+    "Grotadmorv": {
+        "name": "Grotadmorv",
+        "sprite": "./sprite/Grotadmorv.gif",
+        "sprite_dos": "./sprite_dos/Grotadmorv.png",
+        "type1": "Poison",
+        "type2": "None",
+        "PV": 315,
+        "Statatt": 105,
+        "Statattspe": 65,
+        "Statdef" : 75,
+        "Statdefspe": 100,
+        "Speed": 50,
+        "Att1": "Éructation",
+        "Att2": "Pouvoir Lunaire",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Tonnerre"
+        
+    },
+
+    "Crustabri": {
+        "name": "Crustabri",
+        "sprite": "./sprite/Crustabri.gif",
+        "sprite_dos": "./sprite_dos/Crustabri.png",
+        "type1": "Eau",
+        "type2": "Glace",
+        "PV": 160,
+        "Statatt": 95,
+        "Statattspe": 85,
+        "Statdef" : 180,
+        "Statdefspe": 45,
+        "Speed": 70,
+        "Att1": "Laser Glace",
+        "Att2": "Giga Impact",
+        "Att3": "Surf",
+        "Att4": "Direct Toxik"
+        
+    },
+
+    "Ectoplasma": {
+        "name": "Ectoplasma",
+        "sprite": "./sprite/Ectoplasma.gif",
+        "sprite_dos": "./sprite_dos/Ectoplasma.png",
+        "type1": "Spectr",
+        "type2": "Poison",
+        "PV": 180,
+        "Statatt": 65,
+        "Statattspe": 130,
+        "Statdef" : 60,
+        "Statdefspe": 75,
+        "Speed": 110,
+        "Att1": "Ball'Ombre",
+        "Att2": "Coup Bas",
+        "Att3": "Casse-Brique",
+        "Att4": "Psyko"
+        
+    },
+
+    "Onix": {
+        "name": "Onix",
+        "sprite": "./sprite/Onix.gif",
+        "sprite_dos": "./sprite_dos/Onix.png",
+        "type1": "Roche",
+        "type2": "Sol",
+        "PV": 115,
+        "Statatt": 45,
+        "Statattspe": 30,
+        "Statdef" : 160,
+        "Statdefspe": 45,
+        "Speed": 70,
+        "Att1": "Séisme",
+        "Att2": "Lame de Roc",
+        "Att3": "Damoclès",
+        "Att4": "Dracosouffle"
+        
+    },
+
+    "Hypnomade": {
+        "name": "Hypnomade",
+        "sprite": "./sprite/Hypnomade.gif",
+        "sprite_dos": "./sprite_dos/Hypnomade.png",
+        "type1": "Psy",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 73,
+        "Statattspe": 73,
+        "Statdef" : 70,
+        "Statdefspe": 115,
+        "Speed": 110,
+        "Att1": "Psyko",
+        "Att2": "Ball'Ombre",
+        "Att3": "Casse-Brique",
+        "Att4": "Éclat Magique"
+        
+    },
+
+    "Krabboss": {
+        "name": "Krabboss",
+        "sprite": "./sprite/Krabboss.gif",
+        "sprite_dos": "./sprite_dos/Krabboss.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 165,
+        "Statatt": 130,
+        "Statattspe": 50,
+        "Statdef" : 115,
+        "Statdefspe": 50,
+        "Speed": 75,
+        "Att1": "Surf",
+        "Att2": "Griffe Acier",
+        "Att3": "Giga Impact",
+        "Att4": "Laser Glace"
+        
+    },
+
+    "Electrode": {
+        "name": "Électrode",
+        "sprite": "./sprite/Electrode.gif",
+        "sprite_dos": "./sprite_dos/Electrode.png",
+        "type1": "Electr",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 50,
+        "Statattspe": 80,
+        "Statdef" : 70,
+        "Statdefspe": 80,
+        "Speed": 150,
+        "Att1": "Tonnerre",
+        "Att2": "Fatal-Foudre",
+        "Att3": "Ultralaser",
+        "Att4": "Explosion"
+        
+    },
+
+    "Noadkoko": {
+        "name": "Noadkoko",
+        "sprite": "./sprite/Noadkoko.gif",
+        "sprite_dos": "./sprite_dos/Noadkoko.png",
+        "type1": "Plante",
+        "type2": "Psy",
+        "PV": 285,
+        "Statatt": 95,
+        "Statattspe": 125,
+        "Statdef" : 85,
+        "Statdefspe": 75,
+        "Speed": 55,
+        "Att1": "Psyko",
+        "Att2": "Lance-Soleil",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Mania"
+        
+    },
+
+    "Ossatueur": {
+        "name": "Ossatueur",
+        "sprite": "./sprite/Ossatueur.gif",
+        "sprite_dos": "./sprite_dos/Ossatueur.png",
+        "type1": "Sol",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 80,
+        "Statattspe": 50,
+        "Statdef" : 111,
+        "Statdefspe": 80,
+        "Speed": 45,
+        "Att1": "Séisme",
+        "Att2": "Damoclès",
+        "Att3": "Lance-Flammes",
+        "Att4": "Aéropique"
+        
+    },
+
+    "Kicklee": {
+        "name": "Kicklee",
+        "sprite": "./sprite/Kicklee.gif",
+        "sprite_dos": "./sprite_dos/Kicklee.png",
+        "type1": "Combat",
+        "type2": "None",
+        "PV": 160,
+        "Statatt": 120,
+        "Statattspe": 35,
+        "Statdef" : 53,
+        "Statdefspe": 110,
+        "Speed": 87,
+        "Att1": "Pied Sauté",
+        "Att2": "Ultimawashi",
+        "Att3": "Pied Brûleur",
+        "Att4": "Lame de Roc"
+        
+    },
+
+    "Tygnon": {
+        "name": "Tygnon",
+        "sprite": "./sprite/Tygnon.gif",
+        "sprite_dos": "./sprite_dos/Tygnon.png",
+        "type1": "Combat",
+        "type2": "None",
+        "PV": 160,
+        "Statatt": 105,
+        "Statattspe": 35,
+        "Statdef" : 79,
+        "Statdefspe": 110,
+        "Speed": 76,
+        "Att1": "Poing-Éclair",
+        "Att2": "Poing-Glace",
+        "Att3": "Stratopercut",
+        "Att4": "Exploforce"
+        
+    },
+
+    "Excelangue": {
+        "name": "Excelangue",
+        "sprite": "./sprite/Excelangue.gif",
+        "sprite_dos": "./sprite_dos/Excelangue.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 270,
+        "Statatt": 55,
+        "Statattspe": 60,
+        "Statdef" : 75,
+        "Statdefspe": 75,
+        "Speed": 35,
+        "Att1": "Souplesse",
+        "Att2": "Casse-Brique",
+        "Att3": "Tomberoche",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Smogogo": {
+        "name": "Smogogo",
+        "sprite": "./sprite/Smogogo.gif",
+        "sprite_dos": "./sprite_dos/Smogogo.png",
+        "type1": "Poison",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 90,
+        "Statattspe": 65,
+        "Statdef" : 85,
+        "Statdefspe": 120,
+        "Speed": 70,
+        "Att1": "Bomb-Beurk",
+        "Att2": "Lance-Flammes",
+        "Att3": "Gyroballe",
+        "Att4": "Ultralaser"
+        
+    },
+
+    "Rhinoferos": {
+        "name": "Rhinoféros",
+        "sprite": "./sprite/Rhinoferos.gif",
+        "sprite_dos": "./sprite_dos/Rhinoferos.png",
+        "type1": "Sol",
+        "type2": "Roche",
+        "PV": 315,
+        "Statatt": 130,
+        "Statattspe": 45,
+        "Statdef" : 120,
+        "Statdefspe": 45,
+        "Speed": 40,
+        "Att1": "Séisme",
+        "Att2": "Lame de Roc",
+        "Att3": "Marto-Poing",
+        "Att4": "Direct Toxik"
+        
+    },
+
+    "Leveinard": {
+        "name": "Leveinard",
+        "sprite": "./sprite/Leveinard.gif",
+        "sprite_dos": "./sprite_dos/Leveinard.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 750,
+        "Statatt": 5,
+        "Statattspe": 35,
+        "Statdef" : 5,
+        "Statdefspe": 105,
+        "Speed": 50,
+        "Att1": "Laser Glace",
+        "Att2": "Tonnerre",
+        "Att3": "Éclat Magique",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Kangourex": {
+        "name": "Kangourex",
+        "sprite": "./sprite/Kangourex.gif",
+        "sprite_dos": "./sprite_dos/Kangourex.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 315,
+        "Statatt": 95,
+        "Statattspe": 40,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 90,
+        "Att1": "Laser Glace",
+        "Att2": "Casse-Brique",
+        "Att3": "Coup Bas",
+        "Att4": "Ultimapoing"
+        
+    },
+
+    "Hypocean": {
+        "name": "Hypocéan",
+        "sprite": "./sprite/Hypocean.gif",
+        "sprite_dos": "./sprite_dos/Hypocean.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 165,
+        "Statatt": 65,
+        "Statattspe": 95,
+        "Statdef" : 95,
+        "Statdefspe": 45,
+        "Speed": 85,
+        "Att1": "Surf",
+        "Att2": "Dracochoc",
+        "Att3": "Laser Glace",
+        "Att4": "Luminocanon"
+        
+    },
+
+    "Poissoroy": {
+        "name": "Poissoroy",
+        "sprite": "./sprite/Poissoroy.gif",
+        "sprite_dos": "./sprite_dos/Poissoroy.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 240,
+        "Statatt": 92,
+        "Statattspe": 65,
+        "Statdef" : 65,
+        "Statdefspe": 80,
+        "Speed": 68,
+        "Att1": "Laser Glace",
+        "Att2": "Surf",
+        "Att3": "Direct Toxik",
+        "Att4": "Blizzard"
+        
+    },
+
+    "Staross": {
+        "name": "Staross",
+        "sprite": "./sprite/Staross.gif",
+        "sprite_dos": "./sprite_dos/Staross.png",
+        "type1": "Eau",
+        "type2": "Psy",
+        "PV": 180,
+        "Statatt": 75,
+        "Statattspe": 100,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 115,
+        "Att1": "Laser Glace",
+        "Att2": "Surf",
+        "Att3": "Éclat Magique",
+        "Att4": "Hydrocanon"
+        
+    },
+
+    "Insecateur": {
+        "name": "Insécateur",
+        "sprite": "./sprite/Insecateur.gif",
+        "sprite_dos": "./sprite_dos/Insecateur.png",
+        "type1": "Insect",
+        "type2": "Vol",
+        "PV": 210,
+        "Statatt": 110,
+        "Statattspe": 55,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 105,
+        "Att1": "Plaie-Croix",
+        "Att2": "Lame-d'Air",
+        "Att3": "Casse-Brique",
+        "Att4": "Tranche-Nuit"
+        
+    },
+
+    "Lippoutou": {
+        "name": "Lippoutou",
+        "sprite": "./sprite/Lippoutou.gif",
+        "sprite_dos": "./sprite_dos/Lippoutou.png",
+        "type1": "Psy",
+        "type2": "Glace",
+        "PV": 195,
+        "Statatt": 35,
+        "Statattspe": 115,
+        "Statdef" : 95,
+        "Statdefspe": 50,
+        "Speed": 95,
+        "Att1": "Laser Glace",
+        "Att2": "Psyko",
+        "Att3": "Ball'Ombre",
+        "Att4": "Casse-Brique"
+        
+    },
+
+    "Elektek": {
+        "name": "Élektek",
+        "sprite": "./sprite/Elektek.gif",
+        "sprite_dos": "./sprite_dos/Elektek.png",
+        "type1": "Electr",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 83,
+        "Statattspe": 95,
+        "Statdef" : 57,
+        "Statdefspe": 85,
+        "Speed": 105,
+        "Att1": "Tonnerre",
+        "Att2": "Psyko",
+        "Att3": "Exploforce",
+        "Att4": "Fatal-Foudre"
+        
+    },
+
+    "Magmar": {
+        "name": "Magmar",
+        "sprite": "./sprite/Magmar.gif",
+        "sprite_dos": "./sprite_dos/Magmar.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 95,
+        "Statattspe": 100,
+        "Statdef" : 57,
+        "Statdefspe": 85,
+        "Speed": 93,
+        "Att1": "Lance-Flammes",
+        "Att2": "Casse-Brique",
+        "Att3": "Poing Éclair",
+        "Att4": "Déflagration"
+        
+    },
+
+    "Scarabrute": {
+        "name": "Scarabrute",
+        "sprite": "./sprite/Scarabrute.gif",
+        "sprite_dos": "./sprite_dos/Scarabrute.png",
+        "type1": "Insect",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 125,
+        "Statattspe": 55,
+        "Statdef" : 100,
+        "Statdefspe": 70,
+        "Speed": 85,
+        "Att1": "Plaie-Croix",
+        "Att2": "Casse-Brique",
+        "Att3": "Séisme",
+        "Att4": "Lame de Roc"
+        
+    },
+
+    "Tauros": {
+        "name": "Tauros",
+        "sprite": "./sprite/Tauros.gif",
+        "sprite_dos": "./sprite_dos/Tauros.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 225,
+        "Statatt": 100,
+        "Statattspe": 40,
+        "Statdef" : 95,
+        "Statdefspe": 70,
+        "Speed": 110,
+        "Att1": "Puissance Cachée",
+        "Att2": "Psykoud'Boul",
+        "Att3": "Représailles",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Leviator": {
+        "name": "Léviator",
+        "sprite": "./sprite/Leviator.gif",
+        "sprite_dos": "./sprite_dos/Leviator.png",
+        "type1": "Eau",
+        "type2": "Vol",
+        "PV": 285,
+        "Statatt": 125,
+        "Statattspe": 60,
+        "Statdef" : 79,
+        "Statdefspe": 100,
+        "Speed": 81,
+        "Att1": "Surf",
+        "Att2": "Crocs Givre",
+        "Att3": "Colère",
+        "Att4": "Hydrocanon"
+        
+    },
+
+    "Lokhlass": {
+        "name": "Lokhlass",
+        "sprite": "./sprite/Lokhlass.gif",
+        "sprite_dos": "./sprite_dos/Lokhlass.png",
+        "type1": "Eau",
+        "type2": "Glace",
+        "PV": 390,
+        "Statatt": 85,
+        "Statattspe": 85,
+        "Statdef" : 80,
+        "Statdefspe": 95,
+        "Speed": 60,
+        "Att1": "Laser Glace",
+        "Att2": "Surf",
+        "Att3": "Dracochoc",
+        "Att4": "Tonnerre"
+        
+    },
+
+    "Aquali": {
+        "name": "Aquali",
+        "sprite": "./sprite/Aquali.gif",
+        "sprite_dos": "./sprite_dos/Aquali.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 390,
+        "Statatt": 65,
+        "Statattspe": 110,
+        "Statdef" : 60,
+        "Statdefspe": 95,
+        "Speed": 65,
+        "Att1": "Surf",
+        "Att2": "Laser Glace",
+        "Att3": "Ball'Ombre",
+        "Att4": "Hydrocanon"
+        
+    },
+
+    "Voltali": {
+        "name": "Voltali",
+        "sprite": "./sprite/Voltali.gif",
+        "sprite_dos": "./sprite_dos/Voltali.png",
+        "type1": "Electr",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 65,
+        "Statattspe": 110,
+        "Statdef" : 60,
+        "Statdefspe": 95,
+        "Speed": 130,
+        "Att1": "Tonnerre",
+        "Att2": "Puissance Cachée",
+        "Att3": "Morsure",
+        "Att4": "Fatal-Foudre"
+        
+    },
+
+    "Pyroli": {
+        "name": "Pyroli",
+        "sprite": "./sprite/Pyroli.gif",
+        "sprite_dos": "./sprite_dos/Pyroli.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 130,
+        "Statattspe": 95,
+        "Statdef" : 60,
+        "Statdefspe": 110,
+        "Speed": 115,
+        "Att1": "Lance-Flammes",
+        "Att2": "Ball'Ombre",
+        "Att3": "Morsure",
+        "Att4": "Déflagration"
+        
+    },
+
+    "Porygon": {
+        "name": "Porygon",
+        "sprite": "./sprite/Porygon.gif",
+        "sprite_dos": "./sprite_dos/Porygon.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 60,
+        "Statattspe": 85,
+        "Statdef" : 70,
+        "Statdefspe": 75,
+        "Speed": 40,
+        "Att1": "Triplattaque",
+        "Att2": "Laser Glace",
+        "Att3": "Psyko",
+        "Att4": "Aéropique"
+        
+    },
+
+    "Amonistar": {
+        "name": "Amonistar",
+        "sprite": "./sprite/Amonistar.gif",
+        "sprite_dos": "./sprite_dos/Amonistar.png",
+        "type1": "Eau",
+        "type2": "Roche",
+        "PV": 210,
+        "Statatt": 60,
+        "Statattspe": 115,
+        "Statdef" : 125,
+        "Statdefspe": 70,
+        "Speed": 55,
+        "Att1": "Surf",
+        "Att2": "Lame de Roc",
+        "Att3": "Laser Glace",
+        "Att4": "Blizzard"
+        
+    },
+
+    "Kabutops": {
+        "name": "Kabutops",
+        "sprite": "./sprite/Kabutops.gif",
+        "sprite_dos": "./sprite_dos/Kabutops.png",
+        "type1": "Eau",
+        "type2": "Roche",
+        "PV": 180,
+        "Statatt": 115,
+        "Statattspe": 65,
+        "Statdef" : 105,
+        "Statdefspe": 70,
+        "Speed": 80,
+        "Att1": "Surf",
+        "Att2": "Éboulement",
+        "Att3": "Casse-Brique",
+        "Att4": "Aéropique"
+        
+    },
+
+    "Ptera": {
+        "name": "Ptéra",
+        "sprite": "./sprite/Ptera.gif",
+        "sprite_dos": "./sprite_dos/Ptera.png",
+        "type1": "Roche",
+        "type2": "Vol",
+        "PV": 240,
+        "Statatt": 105,
+        "Statattspe": 60,
+        "Statdef" : 65,
+        "Statdefspe": 75,
+        "Speed": 130,
+        "Att1": "Séisme",
+        "Att2": "Lame de Roc",
+        "Att3": "Dracochoc",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Ronflex": {
+        "name": "Ronflex",
+        "sprite": "./sprite/Ronflex.gif",
+        "sprite_dos": "./sprite_dos/Ronflex.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 480,
+        "Statatt": 110,
+        "Statattspe": 65,
+        "Statdef" : 65,
+        "Statdefspe": 110,
+        "Speed": 30,
+        "Att1": "Plaquage",
+        "Att2": "Surpuissance",
+        "Att3": "Mâchouille",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Artikodin": {
+        "name": "Artikodin",
+        "sprite": "./sprite/Artikodin.gif",
+        "sprite_dos": "./sprite_dos/Artikodin.png",
+        "type1": "Glace",
+        "type2": "Vol",
+        "PV": 270,
+        "Statatt": 85,
+        "Statattspe": 95,
+        "Statdef" : 100,
+        "Statdefspe": 125,
+        "Speed": 85,
+        "Att1": "Laser Glace",
+        "Att2": "Piqué",
+        "Att3": "Rayon Signal",
+        "Att4": "Aéropique"
+        
+    },
+
+    "Electhor": {
+        "name": "Électhor",
+        "sprite": "./sprite/Electhor.gif",
+        "sprite_dos": "./sprite_dos/Electhor.png",
+        "type1": "Electr",
+        "type2": "Vol",
+        "PV": 270,
+        "Statatt": 90,
+        "Statattspe": 125,
+        "Statdef" : 85,
+        "Statdefspe": 90,
+        "Speed": 100,
+        "Att1": "Tonnerre",
+        "Att2": "Piqué",
+        "Att3": "Aile d'Acier",
+        "Att4": "Canicule"
+        
+    },
+
+    "Sulfura": {
+        "name": "Sulfura",
+        "sprite": "./sprite/Sulfura.gif",
+        "sprite_dos": "./sprite_dos/Sulfura.png",
+        "type1": "Feu",
+        "type2": "Vol",
+        "PV": 270,
+        "Statatt": 100,
+        "Statattspe": 125,
+        "Statdef" : 90,
+        "Statdefspe": 85,
+        "Speed": 90,
+        "Att1": "Lance-Flammes",
+        "Att2": "Vent Violent",
+        "Att3": "Giga Impact",
+        "Att4": "Flamme Ultime"
+        
+    },
+
+    "Dracolosse": {
+        "name": "Dracolosse",
+        "sprite": "./sprite/Dracolosse.gif",
+        "sprite_dos": "./sprite_dos/Dracolosse.png",
+        "type1": "Dragon",
+        "type2": "Vol",
+        "PV": 273,
+        "Statatt": 134,
+        "Statattspe": 100,
+        "Statdef" : 95,
+        "Statdefspe": 100,
+        "Speed": 80,
+        "Att1": "Lance-Flammes",
+        "Att2": "Colère",
+        "Att3": "Blizzard",
+        "Att4": "Fatal-Foudre"
+        
+    },
+
+    "Mewtwo": {
+        "name": "Mewtwo",
+        "sprite": "./sprite/Mewtwo.gif",
+        "sprite_dos": "./sprite_dos/Mewtwo.png",
+        "type1": "Psy",
+        "type2": "None",
+        "PV": 318,
+        "Statatt": 110,
+        "Statattspe": 154,
+        "Statdef" : 90,
+        "Statdefspe": 90,
+        "Speed": 130,
+        "Att1": "Frappe Psy",
+        "Att2": "Laser Glace",
+        "Att3": "Éco-Sphère",
+        "Att4": "Poing-Éclair"
+        
+    },
+
+    "Mew": {
+        "name": "Mew",
+        "sprite": "./sprite/Mew.gif",
+        "sprite_dos": "./sprite_dos/Mew.png",
+        "type1": "Psy",
+        "type2": "None",
+        "PV": 300,
+        "Statatt": 100,
+        "Statattspe": 100,
+        "Statdef" : 100,
+        "Statdefspe": 100,
+        "Speed": 100,
+        "Att1": "Psyko",
+        "Att2": "Piqué",
+        "Att3": "Colère",
+        "Att4": "Tricherie"
+        
+    },
+
+    "Olga_Flagadoss": {
+        "name": "Flagadoss",
+        "sprite": "./sprite/Flagadoss.gif",
+        "sprite_dos": "./sprite_dos/Flagadoss.png",
+        "type1": "Eau",
+        "type2": "Psy",
+        "PV": 285,
+        "Statatt": 75,
+        "Statattspe": 110,
+        "Statdef" : 100,
+        "Statdefspe": 80,
+        "Speed": 30,
+        "Att1": "Surf",
+        "Att2": "Psyko",
+        "Att3": "Laser Glace",
+        "Att4": "Ultralaser"
+        
+    },
+
+    "Olga_Lippoutou": {
+        "name": "Lippoutou",
+        "sprite": "./sprite/Lippoutou.gif",
+        "sprite_dos": "./sprite_dos/Lippoutou.png",
+        "type1": "Psy",
+        "type2": "Glace",
+        "PV": 195,
+        "Statatt": 35,
+        "Statattspe": 115,
+        "Statdef" : 95,
+        "Statdefspe": 50,
+        "Speed": 95,
+        "Att1": "Laser Glace",
+        "Att2": "Psyko",
+        "Att3": "Ball'Ombre",
+        "Att4": "Casse-Brique"
+        
+    },
+
+    "Olga_Lokhlass": {
+        "name": "Lokhlass",
+        "sprite": "./sprite/Lokhlass.gif",
+        "sprite_dos": "./sprite_dos/Lokhlass.png",
+        "type1": "Eau",
+        "type2": "Glace",
+        "PV": 390,
+        "Statatt": 85,
+        "Statattspe": 85,
+        "Statdef" : 80,
+        "Statdefspe": 95,
+        "Speed": 60,
+        "Att1": "Laser Glace",
+        "Att2": "Surf",
+        "Att3": "Dracochoc",
+        "Att4": "Tonnerre"
+        
+    },
+
+    "Aldo_Tygnon": {
+        "name": "Tygnon",
+        "sprite": "./sprite/Tygnon.gif",
+        "sprite_dos": "./sprite_dos/Tygnon.png",
+        "type1": "Combat",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 105,
+        "Statattspe": 35,
+        "Statdef" : 79,
+        "Statdefspe": 110,
+        "Speed": 76,
+        "Att1": "Poing-Éclair",
+        "Att2": "Poing-Glace",
+        "Att3": "Stratopercut",
+        "Att4": "Exploforce"
+        
+    },
+
+    "Aldo_Kicklee": {
+        "name": "Kicklee",
+        "sprite": "./sprite/Kicklee.gif",
+        "sprite_dos": "./sprite_dos/Kicklee.png",
+        "type1": "Combat",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 120,
+        "Statattspe": 35,
+        "Statdef" : 53,
+        "Statdefspe": 110,
+        "Speed": 87,
+        "Att1": "Pied Sauté",
+        "Att2": "Ultimawashi",
+        "Att3": "Pied Brûleur",
+        "Att4": "Lame de Roc"
+        
+    }, 
+
+    "Aldo_Mackogneur": {
+        "name": "Mackogneur",
+        "sprite": "./sprite/Mackogneur.gif",
+        "sprite_dos": "./sprite_dos/Mackogneur.png",
+        "type1": "Combat",
+        "type2": "None",
+        "PV": 270,
+        "Statatt": 130,
+        "Statattspe": 65,
+        "Statdef" : 80,
+        "Statdefspe": 85,
+        "Speed": 55,
+        "Att1": "Casse-Brique",
+        "Att2": "Coup Croix",
+        "Att3": "Damoclès",
+        "Att4": "Éboulement"
+        
+    },
+
+    "Agatha_Nosferalto": {
+        "name": "Nosferalto",
+        "sprite": "./sprite/Nosferalto.gif",
+        "sprite_dos": "./sprite_dos/Nosferalto.png",
+        "type1": "Poison",
+        "type2": "Vol",
+        "PV": 225,
+        "Statatt": 80,
+        "Statattspe": 65,
+        "Statdef" : 70,
+        "Statdefspe": 75,
+        "Speed": 90,
+        "Att1": "Lame-d'Air",
+        "Att2": "Mâchouille",
+        "Att3": "Vive-Attaque",
+        "Att4": "Aéropique"
+        
+    },
+
+    "Agatha_Arbok": {
+        "name": "Arbok",
+        "sprite": "./sprite/Arbok.gif",
+        "sprite_dos": "./sprite_dos/Arbok.png",
+        "type1": "Poison",
+        "type2": "None",
+        "PV": 190,
+        "Statatt": 95,
+        "Statattspe": 65,
+        "Statdef" : 69,
+        "Statdefspe": 79,
+        "Speed": 80,
+        "Att1": "Éructation",
+        "Att2": "Crocs Éclair",
+        "Att3": "Mâchouille",
+        "Att4": "Boue-Bombe"
+    },
+
+    "Agatha_Ectoplasma": {
+        "name": "Ectoplasma",
+        "sprite": "./sprite/Ectoplasma.gif",
+        "sprite_dos": "./sprite_dos/Ectoplasma.png",
+        "type1": "Poison",
+        "type2": "Spectr",
+        "PV": 200,
+        "Statatt": 65,
+        "Statattspe": 130,
+        "Statdef" : 60,
+        "Statdefspe": 75,
+        "Speed": 110,
+        "Att1": "Ball'Ombre",
+        "Att2": "Coup Bas",
+        "Att3": "Casse-Brique",
+        "Att4": "Psyko"
+        
+    },
+
+    "Peter_Ptera": {
+        "name": "Ptéra",
+        "sprite": "./sprite/Ptera.gif",
+        "sprite_dos": "./sprite_dos/Ptera.png",
+        "type1": "Roche",
+        "type2": "Vol",
+        "PV": 240,
+        "Statatt": 105,
+        "Statattspe": 60,
+        "Statdef" : 65,
+        "Statdefspe": 75,
+        "Speed": 130,
+        "Att1": "Séisme",
+        "Att2": "Lame de Roc",
+        "Att3": "Dracochoc",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Peter_Leviator": {
+        "name": "Léviator",
+        "sprite": "./sprite/Leviator.gif",
+        "sprite_dos": "./sprite_dos/Leviator.png",
+        "type1": "Eau",
+        "type2": "Vol",
+        "PV": 285,
+        "Statatt": 125,
+        "Statattspe": 60,
+        "Statdef" : 79,
+        "Statdefspe": 100,
+        "Speed": 81,
+        "Att1": "Surf",
+        "Att2": "Crocs Givre",
+        "Att3": "Colère",
+        "Att4": "Hydrocanon"
+        
+    },
+
+    "Peter_Dracolosse": {
+        "name": "Dracolosse",
+        "sprite": "./sprite/Dracolosse.gif",
+        "sprite_dos": "./sprite_dos/Dracolosse.png",
+        "type1": "Dragon",
+        "type2": "Vol",
+        "PV": 273,
+        "Statatt": 134,
+        "Statattspe": 100,
+        "Statdef" : 95,
+        "Statdefspe": 100,
+        "Speed": 80,
+        "Att1": "Lance-Flammes",
+        "Att2": "Colère",
+        "Att3": "Blizzard",
+        "Att4": "Fatal-Foudre"
+        
+    },
+
+    "Maitre_Arcanin": {
+        "name": "Arcanin",
+        "sprite": "./sprite/Arcanin.gif",
+        "sprite_dos": "./sprite_dos/Arcanin.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 270,
+        "Statatt": 110,
+        "Statattspe": 100,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 95,
+        "Att1": "Lance-Flammes",
+        "Att2": "Crocs Éclair",
+        "Att3": "Damoclès",
+        "Att4": "Morsure"
+        
+    },
+
+    "Maitre_Alakazam": {
+        "name": "Alakazam",
+        "sprite": "./sprite/Alakazam.gif",
+        "sprite_dos": "./sprite_dos/Alakazam.png",
+        "type1": "Psy",
+        "type2": "None",
+        "PV": 265,
+        "Statatt": 50,
+        "Statattspe": 135,
+        "Statdef" : 45,
+        "Statdefspe": 95,
+        "Speed": 120,
+        "Att1": "Psyko",
+        "Att2": "Ball'Ombre",
+        "Att3": "Exploforce",
+        "Att4": "Façade"
+        
+    },
+
+    "Maitre_Tortank": {
+        "name": "Tortank",
+        "sprite": "./sprite/Tortank.gif",
+        "sprite_dos": "./sprite_dos/Tortank.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 267,
+        "Statatt": 83,
+        "Statattspe": 85,
+        "Statdef" : 100,
+        "Statdefspe": 105,
+        "Speed": 88,
+        "Att1": "Hydrocanon",
+        "Att2": "Blizzard",
+        "Att3": "Coud'Krane",
+        "Att4": "Surf"
+    },
+
+    "Pierre_Onix": {
+        "name": "Onix",
+        "sprite": "./sprite/Onix.gif",
+        "sprite_dos": "./sprite_dos/Onix.png",
+        "type1": "Roche",
+        "type2": "Sol",
+        "PV": 130,
+        "Statatt": 45,
+        "Statattspe": 30,
+        "Statdef" : 160,
+        "Statdefspe": 45,
+        "Speed": 70,
+        "Att1": "Séisme",
+        "Att2": "Lame de Roc",
+        "Att3": "Damoclès",
+        "Att4": "Dracosouffle"
+        
+    },
+
+    "Pierre_Grolem": {
+        "name": "Grolem",
+        "sprite": "./sprite/Grolem.gif",
+        "sprite_dos": "./sprite_dos/Grolem.png",
+        "type1": "Roche",
+        "type2": "Sol",
+        "PV": 240,
+        "Statatt": 120,
+        "Statattspe": 55,
+        "Statdef" : 130,
+        "Statdefspe": 65,
+        "Speed": 45,
+        "Att1": "Séisme",
+        "Att2": "Explosion",
+        "Att3": "Lame de Roc",
+        "Att4": "Damoclès"
+        
+    },
+
+    "Pierre_Rhinoferos": {
+        "name": "Rhinoféros",
+        "sprite": "./sprite/Rhinoferos.gif",
+        "sprite_dos": "./sprite_dos/Rhinoferos.png",
+        "type1": "Roche",
+        "type2": "Sol",
+        "PV": 315,
+        "Statatt": 130,
+        "Statattspe": 45,
+        "Statdef" : 120,
+        "Statdefspe": 45,
+        "Speed": 40,
+        "Att1": "Séisme",
+        "Att2": "Lame de Roc",
+        "Att3": "Marto-Poing",
+        "Att4": "Direct Toxik"
+        
+    },
+
+    "Ondine_Staross": {
+        "name": "Staross",
+        "sprite": "./sprite/Staross.gif",
+        "sprite_dos": "./sprite_dos/Staross.png",
+        "type1": "Eau",
+        "type2": "Psy",
+        "PV": 190,
+        "Statatt": 75,
+        "Statattspe": 100,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 115,
+        "Att1": "Laser Glace",
+        "Att2": "Surf",
+        "Att3": "Éclat Magique",
+        "Att4": "Hydrocanon"
+        
+    },
+
+    "Ondine_Hypocean": {
+        "name": "Hypocéan",
+        "sprite": "./sprite/Hypocean.gif",
+        "sprite_dos": "./sprite_dos/Hypocean.png",
+        "type1": "Eau",
+        "type2": "None",
+        "PV": 215,
+        "Statatt": 65,
+        "Statattspe": 95,
+        "Statdef" : 95,
+        "Statdefspe": 45,
+        "Speed": 85,
+        "Att1": "Surf",
+        "Att2": "Dracochoc",
+        "Att3": "Laser Glace",
+        "Att4": "Luminocanon"
+        
+    },
+
+    "Ondine_Tartard": {
+        "name": "Tartard",
+        "sprite": "./sprite/Tartard.gif",
+        "sprite_dos": "./sprite_dos/Tartard.png",
+        "type1": "Eau",
+        "type2": "Combat",
+        "PV": 270,
+        "Statatt": 95,
+        "Statattspe": 70,
+        "Statdef" : 95,
+        "Statdefspe": 90,
+        "Speed": 70,
+        "Att1": "Surf",
+        "Att2": "Laser Glace",
+        "Att3": "Casse-Brique",
+        "Att4": "Direct Toxik"
+        
+    },
+
+    "Bob_Raichu": {
+        "name": "Raichu",
+        "sprite": "./sprite/Raichu.gif",
+        "sprite_dos": "./sprite_dos/Raichu.png",
+        "type1": "Electr",
+        "type2": "None",
+        "PV": 205,
+        "Statatt": 90,
+        "Statattspe": 90,
+        "Statdef" : 55,
+        "Statdefspe": 80,
+        "Speed": 110,
+        "Att1": "Tonnerre",
+        "Att2": "Fatal-Foudre",
+        "Att3": "Vive-Attaque",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Bob_Electrode": {
+        "name": "Électrode",
+        "sprite": "./sprite/Electrode.gif",
+        "sprite_dos": "./sprite_dos/Electrode.png",
+        "type1": "Electr",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 50,
+        "Statattspe": 80,
+        "Statdef" : 70,
+        "Statdefspe": 80,
+        "Speed": 150,
+        "Att1": "Tonnerre",
+        "Att2": "Fatal-Foudre",
+        "Att3": "Ultralaser",
+        "Att4": "Explosion"
+        
+    },
+
+    "Bob_Magneton": {
+        "name": "Magnéton",
+        "sprite": "./sprite/Magneton.gif",
+        "sprite_dos": "./sprite_dos/Magneton.png",
+        "type1": "Electr",
+        "type2": "Acier",
+        "PV": 185,
+        "Statatt": 60,
+        "Statattspe": 95,
+        "Statdef" : 120,
+        "Statdefspe": 70,
+        "Speed": 70,
+        "Att1": "Tonnerre",
+        "Att2": "Triplattaque",
+        "Att3": "Explosion",
+        "Att4": "Luminocanon"
+        
+    },
+
+    "Erika_Parasect": {
+        "name": "Parasect",
+        "sprite": "./sprite/Parasect.gif",
+        "sprite_dos": "./sprite_dos/Parasect.png",
+        "type1": "Insect",
+        "type2": "Plante",
+        "PV": 180,
+        "Statatt": 95,
+        "Statattspe": 60,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 30,
+        "Att1": "Aéropique",
+        "Att2": "Lance-Soleil",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Plaie-Croix"
+        
+    },
+
+    "Erika_Rafflesia": {
+        "name": "Rafflesia",
+        "sprite": "./sprite/Rafflesia.gif",
+        "sprite_dos": "./sprite_dos/Rafflesia.png",
+        "type1": "Poison",
+        "type2": "Plante",
+        "PV": 225,
+        "Statatt": 80,
+        "Statattspe": 110,
+        "Statdef" : 85,
+        "Statdefspe": 90,
+        "Speed": 50,
+        "Att1": "Danse-Fleur",
+        "Att2": "Pouvoir Lunaire",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Giga Impact"
+        
+    },
+
+    "Erika_Empiflor": {
+        "name": "Empiflor",
+        "sprite": "./sprite/Empiflor.gif",
+        "sprite_dos": "./sprite_dos/Empiflor.png",
+        "type1": "Poison",
+        "type2": "Plante",
+        "PV": 240,
+        "Statatt": 105,
+        "Statattspe": 100,
+        "Statdef" : 65,
+        "Statdefspe": 70,
+        "Speed": 70,
+        "Att1": "Lame-Feuille",
+        "Att2": "Bomb-Beurk",
+        "Att3": "Façade",
+        "Att4": "Tempête Verte"
+        
+    },
+
+    "Koga_Grotadmorv": {
+        "name": "Grotadmorv",
+        "sprite": "./sprite/Grotadmorv.gif",
+        "sprite_dos": "./sprite_dos/Grotadmorv.png",
+        "type1": "Poison",
+        "type2": "None",
+        "PV": 315,
+        "Statatt": 105,
+        "Statattspe": 65,
+        "Statdef" : 75,
+        "Statdefspe": 100,
+        "Speed": 50,
+        "Att1": "Éructation",
+        "Att2": "Pouvoir Lunaire",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Tonnerre"
+        
+    },
+
+    "Koga_Smogogo": {
+        "name": "Smogogo",
+        "sprite": "./sprite/Smogogo.gif",
+        "sprite_dos": "./sprite_dos/Smogogo.png",
+        "type1": "Poison",
+        "type2": "None",
+        "PV": 185,
+        "Statatt": 90,
+        "Statattspe": 65,
+        "Statdef" : 85,
+        "Statdefspe": 120,
+        "Speed": 60,
+        "Att1": "Bomb-Beurk",
+        "Att2": "Lance-Flammes",
+        "Att3": "Gyroballe",
+        "Att4": "Ultralaser"
+        
+    },
+
+    "Koga_Nidoking": {
+        "name": "Nidoking",
+        "sprite": "./sprite/Nidoking.gif",
+        "sprite_dos": "./sprite_dos/Nidoking.png",
+        "type1": "Poison",
+        "type2": "Sol",
+        "PV": 243,
+        "Statatt": 102,
+        "Statattspe": 85,
+        "Statdef" : 77,
+        "Statdefspe": 75,
+        "Speed": 85,
+        "Att1": "Mégacorne",
+        "Att2": "Mania",
+        "Att3": "Telluriforce",
+        "Att4": "Tonnerre"
+        
+    },
+
+    "Morgan_Noadkoko": {
+        "name": "Noadkoko",
+        "sprite": "./sprite/Noadkoko.gif",
+        "sprite_dos": "./sprite_dos/Noadkoko.png",
+        "type1": "Plante",
+        "type2": "Psy",
+        "PV": 285,
+        "Statatt": 95,
+        "Statattspe": 125,
+        "Statdef" : 85,
+        "Statdefspe": 75,
+        "Speed": 55,
+        "Att1": "Psyko",
+        "Att2": "Lance-Soleil",
+        "Att3": "Bomb-Beurk",
+        "Att4": "Mania"
+        
+    },
+
+    "Morgan_Alakazam": {
+        "name": "Alakazam",
+        "sprite": "./sprite/Alakazam.gif",
+        "sprite_dos": "./sprite_dos/Alakazam.png",
+        "type1": "Psy",
+        "type2": "None",
+        "PV": 180,
+        "Statatt": 50,
+        "Statattspe": 135,
+        "Statdef" : 45,
+        "Statdefspe": 95,
+        "Speed": 120,
+        "Att1": "Psyko",
+        "Att2": "Ball'Ombre",
+        "Att3": "Exploforce",
+        "Att4": "Façade"
+        
+    },
+
+    "Morgan_Aeromite": {
+        "name": "Aéromite",
+        "sprite": "./sprite/Aeromite.gif",
+        "sprite_dos": "./sprite_dos/Aeromite.png",
+        "type1": "Insect",
+        "type2": "Poison",
+        "PV": 210,
+        "Statatt": 65,
+        "Statattspe": 60,
+        "Statdef" : 90,
+        "Statdefspe": 75,
+        "Speed": 90,
+        "Att1": "Psyko",
+        "Att2": "Bomb-Beurk",
+        "Att3": "Aéropique",
+        "Att4": "Psykoud'Boul"
+        
+    },
+
+    "Auguste_Arcanin": {
+        "name": "Arcanin",
+        "sprite": "./sprite/Arcanin.gif",
+        "sprite_dos": "./sprite_dos/Arcanin.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 270,
+        "Statatt": 110,
+        "Statattspe": 100,
+        "Statdef" : 80,
+        "Statdefspe": 80,
+        "Speed": 95,
+        "Att1": "Lance-Flammes",
+        "Att2": "Crocs Éclair",
+        "Att3": "Damoclès",
+        "Att4": "Morsure"
+        
+    },
+
+    "Auguste_Galopa": {
+        "name": "Galopa",
+        "sprite": "./sprite/Galopa.gif",
+        "sprite_dos": "./sprite_dos/Galopa.png",
+        "type1": "Feu",
+        "type2": "None",
+        "PV": 195,
+        "Statatt": 100,
+        "Statattspe": 80,
+        "Statdef" : 70,
+        "Statdefspe": 80,
+        "Speed": 105,
+        "Att1": "Déflagration",
+        "Att2": "Mégacorne",
+        "Att3": "Lance-Flammes",
+        "Att4": "Vive-Attaque"
+        
+    },
+
+    "Auguste_Sulfura": {
+        "name": "Sulfura",
+        "sprite": "./sprite/Sulfura.gif",
+        "sprite_dos": "./sprite_dos/Sulfura.png",
+        "type1": "Feu",
+        "type2": "Vol",
+        "PV": 270,
+        "Statatt": 100,
+        "Statattspe": 125,
+        "Statdef" : 90,
+        "Statdefspe": 85,
+        "Speed": 90,
+        "Att1": "Lance-Flammes",
+        "Att2": "Vent Violent",
+        "Att3": "Giga Impact",
+        "Att4": "Flamme Ultime"
+        
+    },
+
+    "Giovanni_Triopikeur": {
+        "name": "Triopikeur",
+        "sprite": "./sprite/Triopikeur.gif",
+        "sprite_dos": "./sprite_dos/Triopikeur.png",
+        "type1": "Sol",
+        "type2": "None",
+        "PV": 150,
+        "Statatt": 100,
+        "Statattspe": 50,
+        "Statdef" : 50,
+        "Statdefspe": 70,
+        "Speed": 120,
+        "Att1": "Séisme",
+        "Att2": "Tranche-Nuit",
+        "Att3": "Triplattaque",
+        "Att4": "Abîme"
+        
+    },
+
+    "Giovanni_Nidoqueen": {
+        "name": "Nidoqueen",
+        "sprite": "./sprite/Nidoqueen.gif",
+        "sprite_dos": "./sprite_dos/Nidoqueen.png",
+        "type1": "Poison",
+        "type2": "Sol",
+        "PV": 270,
+        "Statatt": 82,
+        "Statattspe": 75,
+        "Statdef" : 87,
+        "Statdefspe": 85,
+        "Speed": 76,
+        "Att1": "Telluriforce",
+        "Att2": "Plaquage",
+        "Att3": "Laser Glace",
+        "Att4": "Lance-Flammes"
+        
+    },
+
+    "Giovanni_Mewtwo": {
+        "name": "Mewtwo",
+        "sprite": "./sprite/Mewtwo.gif",
+        "sprite_dos": "./sprite_dos/Mewtwo.png",
+        "type1": "Psy",
+        "type2": "None",
+        "PV": 350,
+        "Statatt": 110,
+        "Statattspe": 154,
+        "Statdef" : 90,
+        "Statdefspe": 90,
+        "Speed": 130,
+        "Att1": "Frappe Psy",
+        "Att2": "Laser Glace",
+        "Att3": "Éco-Sphère",
+        "Att4": "Poing-Éclair"
+        
+    },
+
+    "Red_Pikachu": {
+        "name": "Pikachu",
+        "sprite": "./sprite/Pikachu.gif",
+        "type1": "Electr",
+        "type2": "None",
+        "PV": 320,
+        "Statatt": 110,
+        "Statattspe": 154,
+        "Statdef" : 90,
+        "Statdefspe": 90,
+        "Speed": 170,
+        "Att1": "Tonnerre",
+        "Att2": "Fatal-Foudre",
+        "Att3": "Casse-Brique",
+        "Att4": "Ultralaser"
+        
+    },
+
+    "Red_Dracaufeu": {
+        "name": "Dracaufeu",
+        "sprite": "./sprite/Dracaufeu.gif",
+        "sprite_dos": "./sprite_dos/Dracaufeu.png",
+        "type1":"Feu",
+        "type2": "Vol",
+        "PV": 252,
+        "Statatt": 84,
+        "Statattspe": 109,
+        "Statdef" : 78,
+        "Statdefspe": 85,
+        "Speed": 110,
+        "Att1": "Lance-Flammes",
+        "Att2": "Draco-Choc",
+        "Att3": "Lame-d'Air",
+        "Att4": "Lance-Soleil"
+    },
+
+    "Red_Ronflex": {
+        "name": "Ronflex",
+        "sprite": "./sprite/Ronflex.gif",
+        "sprite_dos": "./sprite_dos/Ronflex.png",
+        "type1": "Normal",
+        "type2": "None",
+        "PV": 480,
+        "Statatt": 110,
+        "Statattspe": 65,
+        "Statdef" : 65,
+        "Statdefspe": 110,
+        "Speed": 80,
+        "Att1": "Plaquage",
+        "Att2": "Surpuissance",
+        "Att3": "Mâchouille",
+        "Att4": "Giga Impact"
+        
+    }
+}

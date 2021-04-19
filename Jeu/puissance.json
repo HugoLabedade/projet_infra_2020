@@ -1,0 +1,649 @@
+{
+
+    "Lance-Flammes": {
+        "pui": 95,
+        "precision": 100,
+        "type": "Feu",
+        "catégorie": "spe"
+    },
+
+    "Draco-Choc": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Dragon",
+        "catégorie": "spe"
+    },
+
+    "Lame-d'Air": {
+        "pui": 75,
+        "precision": 95,
+        "type": "Vol",
+        "catégorie": "spe"
+    },
+
+    "Lance-Soleil": {
+        "pui": 120,
+        "precision": 100,
+        "type": "Plante",
+        "catégorie": "spe"
+    },
+
+    "Hydrocanon": {
+        "pui": 120,
+        "precision": 80,
+        "type": "Eau",
+        "catégorie": "spe"
+    },
+
+    "Blizzard": {
+        "pui": 120,
+        "precision": 70,
+        "type": "Glace",
+        "catégorie": "spe"
+    },
+
+    "Coud'Krane": {
+        "pui": 100,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Surf": {
+        "pui": 95,
+        "precision": 100,
+        "type": "Eau",
+        "catégorie": "spe"
+    },
+
+    "Ball'Ombre": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Spectr",
+        "catégorie": "spe"
+    },
+
+    "Psyko": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Psy",
+        "catégorie": "spe"
+    },
+
+    "Casse-Brique": {
+        "pui": 75,
+        "precision": 100,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Coup Bas": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Tenebr",
+        "catégorie": "phy"
+    },
+
+    "Exploforce": {
+        "pui": 120,
+        "precision": 70,
+        "type": "Combat",
+        "catégorie": "spe"
+    },
+
+    "Bomb-Beurk": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Poison",
+        "catégorie": "spe"
+    },
+
+    "Damoclès": {
+        "pui": 100,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Synthèse": {
+        "pui": 0,
+        "precision": 100
+    },
+
+    "Bourdon": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Insect",
+        "catégorie": "spe"
+    },
+
+    "Rafale Psy": {
+        "pui": 65,
+        "precision": 100,
+        "type": "Psy",
+        "catégorie": "spe"
+    },
+
+    "Direct Toxik": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Poison",
+        "catégorie": "phy"
+    },
+
+    "Coupe-Vent": {
+        "pui": 80,
+        "precision": 90,
+        "type": "Vol",
+        "catégorie": "spe"
+    },
+
+    "Giga Impact": {
+        "pui": 150,
+        "precision": 90,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Aile d'Acier": {
+        "pui": 70,
+        "precision": 90,
+        "type": "Acier",
+        "catégorie": "phy"
+    },
+
+    "Atterrissage": {
+        "pui": 0,
+        "precision": 100
+    },
+
+    "Vive-Attaque": {
+        "pui": 40,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Morsure": {
+        "pui": 60,
+        "precision": 100,
+        "type": "Tenebr",
+        "catégorie": "phy"
+    },
+
+    "Ultralaser": {
+        "pui": 150,
+        "precision": 90,
+        "type": "Normal",
+        "catégorie": "spe"
+    },
+
+    "Piqué": {
+        "pui": 140,
+        "precision": 90,
+        "type": "Vol",
+        "catégorie": "phy"
+    },
+
+    "Aéropique": {
+        "pui": 60,
+        "precision": 100,
+        "type": "Vol",
+        "catégorie": "phy"
+    },
+
+    "Éructation": {
+        "pui": 120,
+        "precision": 90,
+        "type": "Poison",
+        "catégorie": "spe"
+    },
+
+    "Crocs Éclair": {
+        "pui": 65,
+        "precision": 95,
+        "type": "Electr",
+        "catégorie": "phy"
+    },
+
+    "Mâchouille": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Tenebr",
+        "catégorie": "phy"
+    },
+
+    "Boue-Bombe": {
+        "pui": 65,
+        "precision": 85,
+        "type": "Sol",
+        "catégorie": "spe"
+    },
+
+    "Tonnerre": {
+        "pui": 95,
+        "precision": 100,
+        "type": "Electr",
+        "catégorie": "spe"
+    },
+
+    "Fatal-Foudre": {
+        "pui": 120,
+        "precision": 70,
+        "type": "Electr",
+        "catégorie": "spe"
+    },
+
+    "Tranche": {
+        "pui": 70,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Gyroballe": {
+        "pui": 100,
+        "precision": 100,
+        "type": "Acier",
+        "catégorie": "phy"
+    },
+
+    "Telluriforce": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Sol",
+        "catégorie": "spe"
+    },
+
+    "Plaquage": {
+        "pui": 85,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Laser Glace": {
+        "pui": 95,
+        "precision": 100,
+        "type": "Glace",
+        "catégorie": "spe"
+    },
+
+    "Mégacorne": {
+        "pui": 120,
+        "precision": 85,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Mania": {
+        "pui": 100,
+        "precision": 100,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Déflagration": {
+        "pui": 120,
+        "precision": 85,
+        "type": "Feu",
+        "catégorie": "spe"
+    },
+
+    "Éclat Magique": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Fee",
+        "catégorie": "spe"
+    },
+
+    "Extrasenseur": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Psy",
+        "catégorie": "spe"
+    },
+
+    "Danse-Fleur": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Plante",
+        "catégorie": "spe"
+    },
+
+    "Pouvoir Lunaire": {
+        "pui": 95,
+        "precision": 100,
+        "type": "Fee",
+        "catégorie": "spe"
+    },
+
+    "Plaie-Croix": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Insect",
+        "catégorie": "phy"
+    },
+
+    "Tranche-Nuit": {
+        "pui": 70,
+        "precision": 100,
+        "type": "Tenebr",
+        "catégorie": "phy"
+    },
+
+    "Triplattaque": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "spe"
+    },
+
+    "Abîme": {
+        "pui": 1500,
+        "precision": 30,
+        "type": "Sol",
+        "catégorie": "phy"
+    },
+
+    "Câlinerie": {
+        "pui": 90,
+        "precision": 90,
+        "type": "Fee",
+        "catégorie": "phy"
+    },
+
+    "Rayon Gemme": {
+        "pui": 75,
+        "precision": 100,
+        "type": "Roche",
+        "catégorie": "spe"
+    },
+
+    "Séisme": {
+        "pui": 100,
+        "precision": 100,
+        "type": "Sol",
+        "catégorie": "phy"
+    },
+
+    "Griffe Ombre": {
+        "pui": 70,
+        "precision": 100,
+        "type": "Spectr",
+        "catégorie": "phy"
+    },
+
+    "Colère": {
+        "pui": 120,
+        "precision": 100,
+        "type": "Dragon",
+        "catégorie": "phy"
+    },
+
+    "Lame de Roc": {
+        "pui": 100,
+        "precision": 80,
+        "type": "Roche",
+        "catégorie": "phy"
+    },
+
+    "Façade": {
+        "pui": 70,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Coup Croix": {
+        "pui": 100,
+        "precision": 80,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Éboulement": {
+        "pui": 75,
+        "precision": 90,
+        "type": "Roche",
+        "catégorie": "phy"
+    },
+
+    "Lame-Feuille": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Plante",
+        "catégorie": "phy"
+    },
+
+    "Tempête Verte": {
+        "pui": 130,
+        "precision": 90,
+        "type": "Plante",
+        "catégorie": "spe"
+    },
+
+    "Psykoud'Boul": {
+        "pui": 80,
+        "precision": 90,
+        "type": "Psy",
+        "catégorie": "phy"
+    },
+
+    "Explosion": {
+        "pui": 250,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Luminocanon": {
+        "pui": 80,
+        "precision": 100,
+        "type": "Acier",
+        "catégorie": "spe"
+    },
+
+    "Rapace": {
+        "pui": 120,
+        "precision": 100,
+        "type": "Vol",
+        "catégorie": "phy"
+    },
+
+    "Tranch'Herbe": {
+        "pui": 55,
+        "precision": 95,
+        "type": "Plante",
+        "catégorie": "spe"
+    },
+
+    "Vol": {
+        "pui": 90,
+        "precision": 95,
+        "type": "Vol",
+        "catégorie": "phy"
+    },
+
+    "Hydroqueue": {
+        "pui": 90,
+        "precision": 90,
+        "type": "Eau",
+        "catégorie": "phy"
+    },
+
+    "Glaciation": {
+        "pui": 1500,
+        "precision": 30,
+        "type": "Glace",
+        "catégorie": "spe"
+    },
+
+    "Dracosouffle": {
+        "pui": 60,
+        "precision": 100,
+        "type": "Dragon",
+        "catégorie": "spe"
+    },
+
+    "Griffe Acier": {
+        "pui": 50,
+        "precision": 95,
+        "type": "Acier",
+        "catégorie": "phy"
+    },
+
+    "Pied Sauté": {
+        "pui": 95,
+        "precision": 95,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Ultimawashi": {
+        "pui": 120,
+        "precision": 75,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Pied Brûleur": {
+        "pui": 85,
+        "precision": 90,
+        "type": "Feu",
+        "catégorie": "phy"
+    },
+
+    "Poing-Éclair": {
+        "pui": 75,
+        "precision": 100,
+        "type": "Electr",
+        "catégorie": "spe"
+    },
+
+    "Poing-Glace": {
+        "pui": 75,
+        "precision": 100,
+        "type": "Glace",
+        "catégorie": "phy"
+    },
+
+    "Stratopercut": {
+        "pui": 85,
+        "precision": 90,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Souplesse": {
+        "pui": 85,
+        "precision": 70,
+        "type": "Normal",
+        "catégorie": "phy"
+    },
+
+    "Tomberoche": {
+        "pui": 60,
+        "precision": 95,
+        "type": "Roche",
+        "catégorie": "phy"
+    },
+
+    "Marto-Poing": {
+        "pui": 100,
+        "precision": 90,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Ultimapoing": {
+        "pui": 80,
+        "precision": 85,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+    
+    "Dracochoc": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Dragon",
+        "catégorie": "spe"
+    },
+
+    "Puissance Cachée": {
+        "pui": 60,
+        "precision": 100,
+        "type": "Normal",
+        "catégorie": "spe"
+    },
+
+    "Représailles": {
+        "pui": 50,
+        "precision": 100,
+        "type": "Tenebr",
+        "catégorie": "phy"
+    },
+
+    "Crocs Givre": {
+        "pui": 65,
+        "precision": 95,
+        "type": "Glace",
+        "catégorie": "phy"
+    },
+
+    "Surpuissance": {
+        "pui": 120,
+        "precision": 100,
+        "type": "Combat",
+        "catégorie": "phy"
+    },
+
+    "Rayon Signal": {
+        "pui": 75,
+        "precision": 90,
+        "type": "Insect",
+        "catégorie": "spe"
+    },
+
+    "Canicule": {
+        "pui": 95,
+        "precision": 90,
+        "type": "Feu",
+        "catégorie": "spe"
+    },
+
+    "Vent Violent": {
+        "pui": 110,
+        "precision": 70,
+        "type": "Vol",
+        "catégorie": "spe"
+    },
+
+    "Flamme Ultime": {
+        "pui": 130,
+        "precision": 100,
+        "type": "Feu",
+        "catégorie": "spe"
+    },
+
+    "Frappe Psy": {
+        "pui": 100,
+        "precision": 100,
+        "type": "Psy",
+        "catégorie": "spe"
+    },
+
+    "Éco-Sphère": {
+        "pui": 90,
+        "precision": 100,
+        "type": "Plante",
+        "catégorie": "spe"
+    },
+
+    "Tricherie": {
+        "pui": 95,
+        "precision": 100,
+        "type": "Tenebr",
+        "catégorie": "phy"
+    }
+}
